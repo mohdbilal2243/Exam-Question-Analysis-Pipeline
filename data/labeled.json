@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Construct the truth table for the statement pattern",
+    "topic": "Mathematical Logic"
+  },
+  {
+    "text": "Check whether the matrix is invertible or not",
+    "topic": "Differential Equations"
+  },
+  {
+    "text": "Find the integrating factor of differential equation",
+    "topic": "Differential Equations"
+  },
+  {
+    "text": "dx f(a b x)dx",
+    "topic": "Differentiation"
+  },
+  {
+    "text": ". Prove that : a a 3 x dx Hence evaluate :  x 3 x 0",
+    "topic": "Differentiation"
+  },
+  {
+    "text": ". If a body cools from 80\u00baC to 50\u00baC at room temperature of 25\u00baC in 30 minutes, find the temperature of the body after 1 hour.   0 3 1 2",
+    "topic": "Application of Derivatives"
+  },
+  {
+    "text": ". If x f(t) and y g(t) are differentiable functions of t so that y dx is a function of x and if 0 dt dy dy dt then prove that . dx dx dt x 7 Hence find the derivative of 7 w.r.t. x .  sin 1 x x 1 x 2",
+    "topic": "Differentiation"
+  },
+  {
+    "text": ". Solve the linear programming problem graphically. Maximize : z Subject to : x 4y 24, 3x y 21, x y 9, x 0,y 0 Also find the maximum value of z.",
+    "topic": "Linear Programming"
+  },
+  {
+    "text": ". Let a and b be non-collinear vectors. If vector r is coplanar with a and b then show that there exist unique scalars t and 1 t such that For 2 find t , t .  1 2 0 3 1 2",
+    "topic": "Vectors"
+  },
+  {
+    "text": ". Prove that homogeneous equation of degree two in x and y, ax 2 2hxy by 2 0 represents a pair of lines passing through the origin if . Hence show that equation x 2 y 2 0 does not represent a pair of lines.",
+    "topic": "Differential Equations"
+  },
+  {
+    "text": ". Find the inverse of by elementary row transformations.",
+    "topic": "Matrices"
+  },
+  {
+    "text": "none is spade.  SECTION \u2013 D Attempt any FIVE of the following questions : [20]",
+    "topic": "3D Geometry"
+  },
+  {
+    "text": "all the five cards are spades.",
+    "topic": "Mathematical Logic"
+  },
+  {
+    "text": ". Three coins are tossed simultaneously, X is the number of heads. Find the expected value and variance of X.  dy y",
+    "topic": "Probability"
+  },
+  {
+    "text": ". Find the equations of tangent and normal to the curve 3 2 y = 2x \u2013 x + 2 at point .",
+    "topic": "Differential Equations"
+  },
+  {
+    "text": ". The displacement of a particle at time t is given by s t t t . Find the velocity and displacement at the 2 time when the acceleration is 14 ft/sec .  0 3 1 2",
+    "topic": "Differential Equations"
+  },
+  {
+    "text": ". Find the n order derivative of log x.",
+    "topic": "Differentiation"
+  }
+]
